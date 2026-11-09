@@ -1,0 +1,8 @@
+{
+  "name": "RouterMate",
+  "description": "Smart Wi-Fi & router admin dashboard with real-time bandwidth monitoring, device management, security controls, and AI diagnostics.",
+  "version": "2.0.0",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
